@@ -1,0 +1,6 @@
+framework module Pods_HW_IOS_1_Task2 {
+  umbrella header "Pods-HW_IOS_1_Task2-umbrella.h"
+
+  export *
+  module * { export * }
+}
